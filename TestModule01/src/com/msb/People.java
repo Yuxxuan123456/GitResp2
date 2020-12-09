@@ -9,4 +9,5 @@ package com.msb;
 public class People {
     int age;
     int height;
+    String eat;
 }
