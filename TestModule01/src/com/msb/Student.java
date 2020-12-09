@@ -13,5 +13,7 @@ public class Student {
 
 	private double height;
 	private double weight;
+	private  double money;
+
 
 }
