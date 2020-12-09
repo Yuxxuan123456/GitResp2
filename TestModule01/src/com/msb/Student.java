@@ -11,4 +11,7 @@ public class Student {
     private String name;
     private String drink;
 
+	private double height;
+	private double weight;
+
 }

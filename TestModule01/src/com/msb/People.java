@@ -10,4 +10,5 @@ public class People {
     int age;
     int height;
     String eat;
+    String name;
 }
